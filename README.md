@@ -25,7 +25,10 @@ The application is built using various components:
 
 ### 1- Clone the project
 
+On your MapR cluster. Use the mapr account and not root. 
+
 ```
+$ cd /home/mapr
 $ git clone https://github.com/mapr-demos/racing-time-series.git
 ```
 
